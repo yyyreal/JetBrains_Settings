@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern=".bashrc" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="prototxt" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="cmake" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
