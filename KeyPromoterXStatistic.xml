@@ -657,6 +657,14 @@
           <Count>73</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'analysis'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'analysis'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'asda'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -854,7 +862,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>85</Count>
+          <Count>86</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'IR_left_face_detection'">
@@ -918,7 +926,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'analysis'</Description>
-          <Count>14</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'app'">
@@ -1686,7 +1694,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>1962</Count>
+          <Count>1973</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Nosetests in bag_test.py'">
@@ -1702,7 +1710,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'analysis'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'app'">
