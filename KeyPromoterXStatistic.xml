@@ -2198,7 +2198,7 @@
           <IdeaActionID>PublishGroup.UploadTo</IdeaActionID>
           <ShortCut>'⌥⇧⌘X'</ShortCut>
           <Description>Upload to...</Description>
-          <Count>16</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="VCS Operations Popup...">
