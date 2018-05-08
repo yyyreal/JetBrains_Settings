@@ -169,6 +169,14 @@
           <Count>29</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'check_weights'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'check_weights'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'create_test_pic'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -502,7 +510,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>49</Count>
+          <Count>52</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute">
@@ -1038,7 +1046,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'check_weights'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'client'">
@@ -1702,7 +1710,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>1973</Count>
+          <Count>1974</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Nosetests in bag_test.py'">
@@ -2198,7 +2206,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>367</Count>
+          <Count>369</Count>
         </Item>
       </Statistic>
       <Statistic Action="Upload to...">
