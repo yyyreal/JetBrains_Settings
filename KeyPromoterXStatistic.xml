@@ -110,7 +110,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>103</Count>
+          <Count>107</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'analysis'">
@@ -174,7 +174,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'check_weights'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'create_test_pic'">
@@ -510,7 +510,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>52</Count>
+          <Count>55</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute">
@@ -870,7 +870,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>87</Count>
+          <Count>88</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'IR_left_face_detection'">
@@ -1046,7 +1046,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'check_weights'</Description>
-          <Count>4</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'client'">
@@ -1686,7 +1686,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>182</Count>
+          <Count>183</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into My Code">
@@ -1702,7 +1702,7 @@
           <IdeaActionID>StepOut</IdeaActionID>
           <ShortCut>'⇧F8'</ShortCut>
           <Description>Step Out</Description>
-          <Count>156</Count>
+          <Count>176</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -1710,7 +1710,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>1974</Count>
+          <Count>1983</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Nosetests in bag_test.py'">
@@ -1791,6 +1791,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'camera_test'</Description>
           <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'check_weights'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'check_weights'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'create_test_pic'">
@@ -2198,7 +2206,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>612</Count>
+          <Count>614</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -2206,7 +2214,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>369</Count>
+          <Count>374</Count>
         </Item>
       </Statistic>
       <Statistic Action="Upload to...">
