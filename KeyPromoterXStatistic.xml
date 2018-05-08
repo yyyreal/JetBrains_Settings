@@ -1033,6 +1033,14 @@
           <Count>13</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'check_weights'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'check_weights'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'client'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -2182,7 +2190,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>611</Count>
+          <Count>612</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
