@@ -222,7 +222,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'feature_extraction'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'finetune_dataset'">
@@ -1182,7 +1182,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'feature_extraction'</Description>
-          <Count>50</Count>
+          <Count>56</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'finetune_dataset'">
