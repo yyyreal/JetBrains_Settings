@@ -305,6 +305,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'merge_model'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'merge_model'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'motion_classifier'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -654,7 +662,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>526</Count>
+          <Count>529</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -1190,7 +1198,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'feature_extraction'</Description>
-          <Count>82</Count>
+          <Count>84</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'finetune_dataset'">
@@ -1366,7 +1374,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'merge_model'</Description>
-          <Count>2</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'motion_classifier'">
@@ -2047,6 +2055,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'making_datasets'</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'merge_model'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'merge_model'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'motion_classifier'">
