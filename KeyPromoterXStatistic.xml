@@ -30,7 +30,7 @@
           <IdeaActionID>EditorToggleColumnMode</IdeaActionID>
           <ShortCut>'⇧⌘8'</ShortCut>
           <Description>Column Selection Mode</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -518,7 +518,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>145</Count>
+          <Count>146</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -662,7 +662,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>531</Count>
+          <Count>534</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -1086,7 +1086,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'check_weights'</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'client'">
@@ -1198,7 +1198,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'feature_extraction'</Description>
-          <Count>94</Count>
+          <Count>98</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'finetune_dataset'">
@@ -1374,7 +1374,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'merge_model'</Description>
-          <Count>28</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'motion_classifier'">
@@ -1590,7 +1590,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'split_caffemodel'</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'split_data'">
