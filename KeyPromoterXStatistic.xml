@@ -905,6 +905,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Nosetests in merge_m...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'Nosetests in merge_m...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Nosetests in test_ca...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1182,7 +1190,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'feature_extraction'</Description>
-          <Count>78</Count>
+          <Count>82</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'finetune_dataset'">
@@ -1351,6 +1359,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'making_datasets'</Description>
           <Count>24</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'merge_model'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'merge_model'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'motion_classifier'">
