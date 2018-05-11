@@ -54,7 +54,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
-          <Count>22</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -630,7 +630,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'⌘V'</ShortCut>
           <Description>Paste</Description>
-          <Count>41</Count>
+          <Count>43</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste Simple">
@@ -1374,7 +1374,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'merge_model'</Description>
-          <Count>16</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'motion_classifier'">
@@ -2310,7 +2310,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>637</Count>
+          <Count>638</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
