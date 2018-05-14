@@ -1382,7 +1382,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'main'</Description>
-          <Count>17</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'making_datasets'">
