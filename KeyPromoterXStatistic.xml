@@ -1662,7 +1662,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'test'</Description>
-          <Count>105</Count>
+          <Count>106</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'test.sh'">
@@ -2326,7 +2326,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>658</Count>
+          <Count>659</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
