@@ -526,7 +526,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>160</Count>
+          <Count>164</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -694,7 +694,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>88</Count>
+          <Count>89</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'analysis'">
