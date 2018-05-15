@@ -518,7 +518,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>456</Count>
+          <Count>457</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -966,7 +966,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Nosetests in test_so...'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unnamed'">
@@ -2334,7 +2334,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>673</Count>
+          <Count>675</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
