@@ -118,7 +118,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>115</Count>
+          <Count>116</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'analysis'">
@@ -534,7 +534,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>167</Count>
+          <Count>171</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -686,7 +686,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>536</Count>
+          <Count>538</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -934,7 +934,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>90</Count>
+          <Count>91</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'IR_left_face_detection'">
@@ -1542,7 +1542,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'process_pa100k'</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'qu'">
@@ -2230,7 +2230,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'process_pa100k'</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'self_glcm_svm'">
@@ -2374,7 +2374,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'⌥⌘Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>47</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -2390,7 +2390,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>705</Count>
+          <Count>708</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -2398,7 +2398,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>394</Count>
+          <Count>395</Count>
         </Item>
       </Statistic>
       <Statistic Action="Upload to...">
