@@ -4,14 +4,14 @@
     <property name="created">2018-03-23T13:39:47</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-04-02T11:14:34</property>
+    <property name="modified">2018-05-22T10:24:34</property>
     <property name="originalScheme">Material Monokai Pro</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="aedc70" />
@@ -408,7 +408,6 @@
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="86dde9" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">
