@@ -70,7 +70,7 @@
           <IdeaActionID>RemoteHostView.CopyPaths</IdeaActionID>
           <ShortCut>'⇧⌘C'</ShortCut>
           <Description>Copy Path</Description>
-          <Count>58</Count>
+          <Count>63</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
